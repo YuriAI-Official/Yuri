@@ -10,9 +10,7 @@ YURI AI is an API-integrated gaming eco-protocol that is based on ChatGPT. It al
 
 Discord:https://discord.gg/mhygY27nDs 
 
-Telegram:https://t.me/YuriAIGroup 
-
-Telegram News Channel:https://t.me/YuriAINewschannel 
+Telegram:https://t.me/YuriAIOfficialGroup
 
 Twitter VN:https://twitter.com/YuriAI_VNGroup 
 
